@@ -22,5 +22,5 @@ Idea.
 P.S jQuery could be easily replaced w js.
 
 
-I am using BEM CSS, great stuff:
+I am using BEM CSS style, great stuff:
 http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
