@@ -24,3 +24,7 @@ P.S jQuery could be easily replaced w js.
 
 I am using BEM CSS style, great stuff:
 http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+
+
+I found this article (look at demo) on the same topic.
+http://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/
